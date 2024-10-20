@@ -90,14 +90,17 @@ skills:
       - name: Sample Size and Power Calculation
 
 
-# Awards
+# Projects
 Projects:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: Customer Churn Analysis 
+    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date_start: 2024-06-01
+    date_end: 2026-08-01
+    awarder: Univeristy of Nottingham
     summary: |
-      Studied the foundational concepts of neural networks and deep learning. By the end, I was able to build, train, and apply fully connected deep neural networks, and apply deep learning techniques to real-world applications.
+      - Led a comprehensive customer churn analysis using Python, analyzing data from over 7,000 customer records to identify key factors influencing churn rates. 
+      - Applied the SMOTE method to increase sample size and developed multiple classification models (Logistic Regression, Random Forest, XGBoost) to predict potential customer churn. Achieved an accuracy of 0.9 using XGBoost and created SHAP value charts to explain the model. 
+      -  Designed and implemented A/B testing to validate data-driven strategies for reducing customer churn, comparing pre- and post-intervention churn rates to measure the effectiveness of the campaign. 
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
