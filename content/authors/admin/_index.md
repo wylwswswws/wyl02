@@ -73,7 +73,7 @@ work:
 skills:
   - name: Software Skills
     items:
-      - name: "Python"
+      - name: 'Python'
         icon: devicon/python
       - name: R
         icon: devicon/rstudio
@@ -99,8 +99,9 @@ skills:
 awards:
   - title: Customer Churn Analysis 
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date_start: 2024-06-01
-    date_end: 2024-08-01
+    #date_start: 2024-06-01
+    #date_end: 2024-08-01
+    date: '2024-06-01'
     # awarder: Univeristy of Nottingham
     summary: |
       - Led a comprehensive customer churn analysis using Python, analyzing data from over 7,000 customer records to identify key factors influencing churn rates. 
