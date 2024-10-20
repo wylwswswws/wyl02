@@ -3,11 +3,11 @@
 title: Yulun Wu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yulun
+last_name: Wu
 
 # Status emoji
 status:
@@ -17,60 +17,41 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
-
+role: Data Scientist | Data Analyst | Biostatistician 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: University of Pennsylvania
+    url: https://www.upenn.edu/
+  - name: University of Nottingham
+    url: https://www.nottingham.ac.uk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'wyulun@seas.upenn.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/wylwswswws
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/yulunwu02
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSE in Systems Engineering
+    institution: University of Pennsylvania
+    date_start: 2024-08
+    date_end: 2026-05
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      Pursuing advanced studies in data science, applied machine learning, and statistical modeling. 
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc in Mathematics
+    institution: University of Nottingham
+    date_start: 2020-09
+    date_end: 2024-07
+    summary: |
+      GPA: 3.9/4.0
+      Specialized in probability theory, statistical methods, and mathematical modeling. 
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
