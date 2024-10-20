@@ -81,13 +81,18 @@ skills:
         icon: devicon/mysql
       - name: MATLAB
         #icon: devicon/Matlab
+      - name: C/C++
+      - name: PowerBI
+      - name: Tableau
   - name: Analytic Skills
     items:
       - name: Statistical Modeling
       - name: A/B Testing
       - name: Causal Inference
       - name: Data Cleaning
-      - name: Sample Size and Power Calculation
+      - name: Data Mining
+      - name: Data Visualization
+      - name: Data Engineering
 
 
 # Projects
@@ -95,18 +100,45 @@ awards:
   - title: Customer Churn Analysis 
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
     date_start: 2024-06-01
-    date_end: 2026-08-01
-    awarder: Univeristy of Nottingham
+    date_end: 2024-08-01
+    # awarder: Univeristy of Nottingham
     summary: |
       - Led a comprehensive customer churn analysis using Python, analyzing data from over 7,000 customer records to identify key factors influencing churn rates. 
       - Applied the SMOTE method to increase sample size and developed multiple classification models (Logistic Regression, Random Forest, XGBoost) to predict potential customer churn. Achieved an accuracy of 0.9 using XGBoost and created SHAP value charts to explain the model. 
       -  Designed and implemented A/B testing to validate data-driven strategies for reducing customer churn, comparing pre- and post-intervention churn rates to measure the effectiveness of the campaign. 
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
+  - title: Dimension Reduction Analysis
+    # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date_start: 2023-04-01
+    date_end: 2023-05-01
+    # awarder: edX
     summary: |
-      Learned to synthesize blockchain solutions and gained an in-depth understanding of Bitcoin, Ethereum, smart contracts, and Dapps.
+      - Implemented PCA and CAE techniques for data compression and decompression on 48 videos with different initial conditions related to Reduced Order Modeling & Video Prediction. 
+      - Compared the reconstruction accuracy of PCA and CAE against various dimensions of the reduced space and found better accuracy for larger dimensions using CAE and for smaller dimensions using PCA. 
+      - Developed a sequence-to-sequence predictive model (LSTM) for four timesteps in the reduced space and achieved a 92% accuracy rate in decoding predicted results in the full space
+  - title: Pharmacological Discovery and Development of Marine Fungi
+    # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date_start: 2023-08-01
+    date_end: 2023-12-01
+    awarder: Peking University Health Science Center
+    summary: |
+      - Conducted in-depth bioinformatic analysis to predict the function of biosynthetic gene clusters in marine fungi, adding in the identification of novel bioactive compounds. 
+      - Applied advanced gene mining techniques to systematically search for potential pharmaceutical candidates, contributing to the discovery of marine-derived natural products with therapeutic potential. 
+  - title: Data Fusion Research
+    # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date_start: 2022-06-01
+    date_end: 2022-12-01
+    awarder: University of Nottingham
+    summary: |
+      - Consulted the literature on the history and different approaches to data fusion and identified key trends and advancements. 
+      - Designed and developed algorithms with Kalman filter and fuzzy logic using C++ for data fusion. 
+      - Drafted a report summarizing the advantages and challenges of the approaches of data fusion in the project and shared it with the entire research group for further discussion and collaboration. 
+  - title: Traffic Flow Modeling
+    # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date_start: 2024-01-01
+    date_end: 2024-04-01
+    awarder: University of Nottingham
+    summary: |
+      - Developed traffic flow models using cellular automata and car-following approaches. Simulated the behavior of vehicles under varying traffic densities and driver reaction times.
 
 ---
 
