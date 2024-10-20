@@ -91,7 +91,7 @@ skills:
 
 
 # Projects
-Projects:
+awards:
   - title: Customer Churn Analysis 
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
     date_start: 2024-06-01
