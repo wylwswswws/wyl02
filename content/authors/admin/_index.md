@@ -82,11 +82,11 @@ skills:
       - name: MATLAB
         #icon: devicon/Matlab
       - name: C/C++
-      - #icon: devicon/Matlab
+      #- icon: devicon/Matlab
       - name: PowerBI
-      - #icon: devicon/Matlab
+      #- icon: devicon/Matlab
       - name: Tableau
-      - #icon: devicon/Matlab
+      #- icon: devicon/Matlab
   - name: Analytic Skills
     items:
       - name: Statistical Modeling
