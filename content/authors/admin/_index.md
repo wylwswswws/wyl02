@@ -53,101 +53,97 @@ education:
       GPA: 3.9/4.0
       Specialized in probability theory, statistical methods, and mathematical modeling. 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - position: Data Scientist (Intern)
+    company_name: TikTok (AMS Data Science)
+    company_url: 'https://www.tiktok.com/'
+    date_start: 2023-06-18
+    date_end: 2023-09-15
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Responsibilities included:
+      - Conducted A/B testing and causal inference analysis to optimize user engagement strategies.
+      - Applied SQL and Python for data extraction, analysis, and visualization.
+      - Collaborated with cross-functional teams on data-driven product decisions.
+      
+  - position: Quantitative Research Intern
+    company_name: Optiver
+    company_url: 'https://www.optiver.com/'
+    date_start: 2023-06-01
+    date_end: 2023-08-31
+    summary: |
+      Responsibilities included:
+      - Developed trading models using machine learning techniques.
+      - Analyzed high-frequency data for pattern recognition and anomaly detection.
+      - Automated data pipelines using Python and Pandas to optimize trading decisions.
+
+  - position: Data Science Intern
+    company_name: Plug and Play Tech Center
+    company_url: 'https://www.plugandplaytechcenter.com/'
+    date_start: 2022-06-01
+    date_end: 2022-08-31
+    summary: |
+      Responsibilities included:
+      - Conducted data analysis and reporting for startup accelerator programs.
+      - Supported the automation team with Python scripts for data cleaning and analysis.
+      - Delivered data insights to support investor decisions.
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming Languages
     items:
       - name: Python
-        description: ''
-        percent: 80
+        percent: 90
         icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
+      - name: R
+        percent: 85
         icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+      - name: SQL
+        percent: 75
+        icon: devicon/mysql
+      - name: TensorFlow
+        percent: 70
+        icon: devicon/tensorflow
+  - name: Machine Learning
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
+      - name: Regression Modeling
         percent: 80
-        icon: camera
+        icon: regression-chart
+      - name: A/B Testing
+        percent: 85
+        icon: test-tube
+      - name: Causal Inference
+        percent: 70
+        icon: scale-balanced
+  - name: Data Analysis & Visualization
+    items:
+      - name: Pandas
+        percent: 90
+        icon: devicon/pandas
+      - name: Matplotlib
+        percent: 85
+        icon: devicon/matplotlib
 
+# Languages
 languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
     awarder: Coursera
-    icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      Studied the foundational concepts of neural networks and deep learning. By the end, I was able to build, train, and apply fully connected deep neural networks, and apply deep learning techniques to real-world applications.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
     awarder: edX
-    icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Learned to synthesize blockchain solutions and gained an in-depth understanding of Bitcoin, Ethereum, smart contracts, and Dapps.
+
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am Yulun Wu, a passionate data scientist with a solid foundation in mathematics, machine learning, and biostatistics. Currently pursuing an MSE in Systems Engineering at the University of Pennsylvania, I am focused on applying advanced machine learning techniques to healthcare and finance sectors. 
