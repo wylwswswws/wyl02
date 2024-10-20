@@ -102,10 +102,9 @@ skills:
 awards:
   - title: Customer Churn Analysis 
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    #date_start: 2024-06-01
-    #date_end: 2024-08-01
-    date: '2024-06-01'
-    # awarder: Univeristy of Nottingham
+    date_start:'2024-06-01'
+    date_end: '2024-08-01'
+    # date: '2024-06-01'
     summary: |
       - Led a comprehensive customer churn analysis using Python, analyzing data from over 7,000 customer records to identify key factors influencing churn rates. 
       - Applied the SMOTE method to increase sample size and developed multiple classification models (Logistic Regression, Random Forest, XGBoost) to predict potential customer churn. Achieved an accuracy of 0.9 using XGBoost and created SHAP value charts to explain the model. 
