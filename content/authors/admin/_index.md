@@ -82,8 +82,11 @@ skills:
       - name: MATLAB
         #icon: devicon/Matlab
       - name: C/C++
+      - #icon: devicon/Matlab
       - name: PowerBI
+      - #icon: devicon/Matlab
       - name: Tableau
+      - #icon: devicon/Matlab
   - name: Analytic Skills
     items:
       - name: Statistical Modeling
@@ -109,8 +112,9 @@ awards:
       -  Designed and implemented A/B testing to validate data-driven strategies for reducing customer churn, comparing pre- and post-intervention churn rates to measure the effectiveness of the campaign. 
   - title: Dimension Reduction Analysis
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date_start: 2023-04-01
-    date_end: 2023-05-01
+    #date_start: 2023-04-01
+    #date_end: 2023-05-01
+    date: 2023-05-01
     # awarder: edX
     summary: |
       - Implemented PCA and CAE techniques for data compression and decompression on 48 videos with different initial conditions related to Reduced Order Modeling & Video Prediction. 
