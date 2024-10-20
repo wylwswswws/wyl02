@@ -36,7 +36,7 @@ profiles:
     url: https://www.linkedin.com/in/yulunwu02
 
 education:
-  - area: Master os Science n Engineering in Systems Engineering
+  - area: Master of Science in Engineering in Systems Engineering
     institution: University of Pennsylvania
     date_start: 2024-08-27
     date_end: 2026-05-20
@@ -48,12 +48,12 @@ education:
     date_start: 2020-09-27
     date_end: 2024-07-14
     summary: |
-      GPA: 3.9/4.0
-      Specialized in probability theory, statistical methods, and mathematical modeling. 
+      - Overall GPA: 3.90/4.00 | First Class | Provost’s Scholarship (06/2021)
+      - Specialized in probability theory, statistical methods, and mathematical modeling. 
 work:
   - position: Data Analyst Intern
     company_name: Novo Nordisk (China) Pharmaceuticals Co., Ltd.
-    company_url: 'https://www.tiktok.com/'
+    company_url: 'https://www.novonordisk.com.cn/'
     date_start: 2023-06-18
     date_end: 2023-09-15
     summary: |
@@ -62,7 +62,7 @@ work:
       
   - position: Data Analyst Intern
     company_name: Central Institute of Mental Health
-    company_url: 'https://www.optiver.com/'
+    company_url: 'https://www.zi-mannheim.de/en/index.html'
     date_start: 2023-01-15
     date_end: 2023-05-15
     summary: |
@@ -73,7 +73,7 @@ work:
 skills:
   - name: Software Skills
     items:
-      - name: Python
+      - name: "Python"
         icon: devicon/python
       - name: R
         icon: devicon/rstudio
