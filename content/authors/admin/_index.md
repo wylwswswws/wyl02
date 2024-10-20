@@ -22,8 +22,6 @@ role: Data Scientist | Data Analyst | Biostatistician
 organizations:
   - name: University of Pennsylvania
     url: https://www.upenn.edu/
-  - name: University of Nottingham
-    url: https://www.nottingham.ac.uk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -38,14 +36,14 @@ profiles:
     url: https://www.linkedin.com/in/yulunwu02
 
 education:
-  - area: MSE in Systems Engineering
+  - area: Master os Science n Engineering in Systems Engineering
     institution: University of Pennsylvania
     date_start: 2024-08-27
     date_end: 2026-05-20
     summary: |
       Pursuing advanced studies in data science, applied machine learning, and statistical modeling. 
       
-  - area: BSc in Mathematics
+  - area: Bachelor of Science (Honours) in Mathematics with Applied Mathematics
     institution: University of Nottingham
     date_start: 2020-09-27
     date_end: 2024-07-14
@@ -53,84 +51,47 @@ education:
       GPA: 3.9/4.0
       Specialized in probability theory, statistical methods, and mathematical modeling. 
 work:
-  - position: Data Scientist (Intern)
-    company_name: TikTok (AMS Data Science)
+  - position: Data Analyst Intern
+    company_name: Novo Nordisk (China) Pharmaceuticals Co., Ltd.
     company_url: 'https://www.tiktok.com/'
     date_start: 2023-06-18
     date_end: 2023-09-15
     summary: |
-      Responsibilities included:
-      - Conducted A/B testing and causal inference analysis to optimize user engagement strategies.
-      - Applied SQL and Python for data extraction, analysis, and visualization.
-      - Collaborated with cross-functional teams on data-driven product decisions.
+      - Collaborated with Microsoft China on a company-wide database migration project, consolidating five databases into one. Analyzed data flow, optimized SQL queries for enhanced efficiency, and contributed to the development of over 20 user requirement specifications.
+      - Leveraged Python and statistical techniques to process and analyze historical sales promotion data for pharmaceuticals. Developed time series models to provide insights for optimizing future promotions and recommending budget allocations. 
       
-  - position: Quantitative Research Intern
-    company_name: Optiver
+  - position: Data Analyst Intern
+    company_name: Central Institute of Mental Health
     company_url: 'https://www.optiver.com/'
-    date_start: 2023-06-01
-    date_end: 2023-08-31
+    date_start: 2023-01-15
+    date_end: 2023-05-15
     summary: |
-      Responsibilities included:
-      - Developed trading models using machine learning techniques.
-      - Analyzed high-frequency data for pattern recognition and anomaly detection.
-      - Automated data pipelines using Python and Pandas to optimize trading decisions.
-
-  - position: Data Science Intern
-    company_name: Plug and Play Tech Center
-    company_url: 'https://www.plugandplaytechcenter.com/'
-    date_start: 2022-06-01
-    date_end: 2022-08-31
-    summary: |
-      Responsibilities included:
-      - Conducted data analysis and reporting for startup accelerator programs.
-      - Supported the automation team with Python scripts for data cleaning and analysis.
-      - Delivered data insights to support investor decisions.
-
+      - Explored neurophysiological activity under stress conditions using a neuropsychological paradigm and combining functional MRI and heart rate signal (in collaboration with the Max Planck Institute of Psychiatry). 
+      - Analyzed fMRI-BOLD and photoplethysmogram signals respectively utilizing generalized linear models (GLM) and wabp algorithm in MATLAB and found brain regions’ interaction with the autonomic nervous system under stress. 
+      - Presented research results in an Academic Seminar at Heidelberg University to 20 scholars and researchers and prepared a poster for an international conference; Expect to publish the research findings in high-impact international journals. 
 # Skills
 skills:
-  - name: Programming Languages
+  - name: Software Skills
     items:
       - name: Python
-        percent: 90
         icon: devicon/python
       - name: R
-        percent: 85
         icon: devicon/rstudio
       - name: SQL
-        percent: 75
         icon: devicon/mysql
-      - name: TensorFlow
-        percent: 70
-        icon: devicon/tensorflow
-  - name: Machine Learning
+      - name: MATLAB
+        #icon: devicon/Matlab
+  - name: Analytic Skills
     items:
-      - name: Regression Modeling
-        percent: 80
-        icon: regression-chart
+      - name: Statistical Modeling
       - name: A/B Testing
-        percent: 85
-        icon: test-tube
       - name: Causal Inference
-        percent: 70
-        icon: scale-balanced
-  - name: Data Analysis & Visualization
-    items:
-      - name: Pandas
-        percent: 90
-        icon: devicon/pandas
-      - name: Matplotlib
-        percent: 85
-        icon: devicon/matplotlib
+      - name: Data Cleaning
+      - name: Sample Size and Power Calculation
 
-# Languages
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 100
 
 # Awards
-awards:
+Projects:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
