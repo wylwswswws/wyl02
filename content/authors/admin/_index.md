@@ -114,7 +114,7 @@ awards:
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     #date_start: 2023-04-01
     #date_end: 2023-05-01
-    date: 2023-05-01
+    date: '2023-05-01'
     # awarder: edX
     summary: |
       - Implemented PCA and CAE techniques for data compression and decompression on 48 videos with different initial conditions related to Reduced Order Modeling & Video Prediction. 
