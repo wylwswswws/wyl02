@@ -40,15 +40,15 @@ profiles:
 education:
   - area: MSE in Systems Engineering
     institution: University of Pennsylvania
-    date_start: 2024-08
-    date_end: 2026-05
+    date_start: 2024-08-27
+    date_end: 2026-05-20
     summary: |
       Pursuing advanced studies in data science, applied machine learning, and statistical modeling. 
       
   - area: BSc in Mathematics
     institution: University of Nottingham
-    date_start: 2020-09
-    date_end: 2024-07
+    date_start: 2020-09-27
+    date_end: 2024-07-14
     summary: |
       GPA: 3.9/4.0
       Specialized in probability theory, statistical methods, and mathematical modeling. 
