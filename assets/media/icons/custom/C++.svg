@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 48 48" width="96px" height="96px" fill-rule="evenodd" clip-rule="evenodd">
+</svg>
+
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 48 48" fill-rule="evenodd" clip-rule="evenodd">
     <!-- 添加背景 -->
     <rect width="48" height="48" fill="currentColor"/>
     <!-- 原始图标路径 -->
