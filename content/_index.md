@@ -37,23 +37,8 @@ sections:
     content:
       title: Skills
       username: admin
-  - block: collection
-    content:
-      title: Selected Projects
-      username: admin
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
-      date_format: 'January 2006'
   - block: awards
     content:
       title: Projects
       username: admin
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
-      date_format: 'January 2006'
 ---

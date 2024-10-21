@@ -82,7 +82,7 @@ skills:
       - name: MATLAB
         icon: devicon/matlab
       - name: C/C++
-        icon: devicon/C++
+        icon: C++
       - name: PowerBI
         icon: devicon/PowerBI
       - name: Tableau
@@ -102,17 +102,17 @@ skills:
 awards:
   - title: Customer Churn Analysis 
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date_start: '2024-06-01'
-    date_end: '2024-08-01'
-    # date: '2024-06-01'
+    #date_start: '2024-06-01'
+    #date_end: '2024-08-01'
+    date: '2024-06-01'
     summary: |
       - Led a comprehensive customer churn analysis using Python, analyzing data from over 7,000 customer records to identify key factors influencing churn rates. 
       - Applied the SMOTE method to increase sample size and developed multiple classification models (Logistic Regression, Random Forest, XGBoost) to predict potential customer churn. Achieved an accuracy of 0.9 using XGBoost and created SHAP value charts to explain the model. 
       -  Designed and implemented A/B testing to validate data-driven strategies for reducing customer churn, comparing pre- and post-intervention churn rates to measure the effectiveness of the campaign. 
   - title: Dimension Reduction Analysis
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date_start: '2023-04-01'
-    date_end: '2023-05-01'
+    #date_start: '2023-04-01'
+    #date_end: '2023-05-01'
     date: '2023-05-01' 
     # awarder: edX
     summary: |
@@ -121,16 +121,14 @@ awards:
       - Developed a sequence-to-sequence predictive model (LSTM) for four timesteps in the reduced space and achieved a 92% accuracy rate in decoding predicted results in the full space
   - title: Pharmacological Discovery and Development of Marine Fungi
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date_start: '2023-08-01'
-    date_end: '2023-12-01'
+    date: '2023-12-01'
     awarder: Peking University Health Science Center
     summary: |
       - Conducted in-depth bioinformatic analysis to predict the function of biosynthetic gene clusters in marine fungi, adding in the identification of novel bioactive compounds. 
       - Applied advanced gene mining techniques to systematically search for potential pharmaceutical candidates, contributing to the discovery of marine-derived natural products with therapeutic potential. 
   - title: Data Fusion Research
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date_start: 2022-06-01
-    date_end: 2022-12-01
+    date: '2022-12-01'
     awarder: University of Nottingham
     summary: |
       - Consulted the literature on the history and different approaches to data fusion and identified key trends and advancements. 
@@ -138,19 +136,11 @@ awards:
       - Drafted a report summarizing the advantages and challenges of the approaches of data fusion in the project and shared it with the entire research group for further discussion and collaboration. 
   - title: Traffic Flow Modeling
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    #date_start: 2024-01-01
-    #date_end: 2024-04-01
+    date: '2024-04-01'
     awarder: University of Nottingham
     summary: |
       - Developed traffic flow models using cellular automata and car-following approaches. Simulated the behavior of vehicles under varying traffic densities and driver reaction times.
-collection:
-  - title: Pandas
-    date: 2023-10-26
-    external_link: https://github.com/pandas-dev/pandas
-    tags:
-      - Hugo
-      - Wowchemy
-      - Markdown 
+
 ---
 
 I am Yulun Wu, a passionate data scientist with a solid foundation in mathematics, machine learning, and biostatistics. Currently pursuing an MSE in Systems Engineering at the University of Pennsylvania, I am focused on applying advanced machine learning techniques to healthcare and finance sectors. 
