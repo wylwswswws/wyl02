@@ -82,11 +82,11 @@ skills:
       - name: MATLAB
         #icon: devicon/Matlab
       - name: C/C++
-      #- icon: devicon/Matlab
+      # icon: devicon/Matlab
       - name: PowerBI
-      #- icon: devicon/Matlab
+      # icon: devicon/Matlab
       - name: Tableau
-      #- icon: devicon/Matlab
+      # icon: devicon/Matlab
   - name: Analytic Skills
     items:
       - name: Statistical Modeling
@@ -102,7 +102,7 @@ skills:
 awards:
   - title: Customer Churn Analysis 
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date_start:'2024-06-01'
+    date_start: '2024-06-01'
     date_end: '2024-08-01'
     # date: '2024-06-01'
     summary: |
