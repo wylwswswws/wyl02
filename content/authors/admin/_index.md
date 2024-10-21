@@ -28,7 +28,7 @@ organizations:
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'wyulun@seas.upenn.edu'
+    url: 'mailto:wyulun@seas.upenn.edu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/wylwswswws
