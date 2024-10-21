@@ -143,7 +143,14 @@ awards:
     awarder: University of Nottingham
     summary: |
       - Developed traffic flow models using cellular automata and car-following approaches. Simulated the behavior of vehicles under varying traffic densities and driver reaction times.
-
+collection:
+  - title: Pandas
+    date: 2023-10-26
+    external_link: https://github.com/pandas-dev/pandas
+    tags:
+      - Hugo
+      - Wowchemy
+      - Markdown 
 ---
 
 I am Yulun Wu, a passionate data scientist with a solid foundation in mathematics, machine learning, and biostatistics. Currently pursuing an MSE in Systems Engineering at the University of Pennsylvania, I am focused on applying advanced machine learning techniques to healthcare and finance sectors. 
