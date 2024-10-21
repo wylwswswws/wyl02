@@ -84,9 +84,9 @@ skills:
       - name: C/C++
         icon: C++
       - name: PowerBI
-        icon: devicon/PowerBI
+        icon: PowerBI
       - name: Tableau
-        icon: devicon/Tableau
+        icon: Tableau
   - name: Analytic Skills
     items:
       - name: Statistical Modeling
@@ -114,8 +114,8 @@ awards:
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     #date_start: '2023-04-01'
     #date_end: '2023-05-01'
-    date: '' 
-    awarder: 'May 2023 - June 2023'
+    date: '2023-05-01' 
+    #awarder: 'May 2023 - June 2023'
     summary: |
       - Implemented PCA and CAE techniques for data compression and decompression on 48 videos with different initial conditions related to Reduced Order Modeling & Video Prediction. 
       - Compared the reconstruction accuracy of PCA and CAE against various dimensions of the reduced space and found better accuracy for larger dimensions using CAE and for smaller dimensions using PCA. 
@@ -123,7 +123,7 @@ awards:
   - title: Pharmacological Discovery and Development of Marine Fungi
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-12-01'
-    #awarder: Peking University Health Science Center
+    awarder: Peking University Health Science Center
     summary: |
       - Conducted in-depth bioinformatic analysis to predict the function of biosynthetic gene clusters in marine fungi, adding in the identification of novel bioactive compounds. 
       - Applied advanced gene mining techniques to systematically search for potential pharmaceutical candidates, contributing to the discovery of marine-derived natural products with therapeutic potential. 
