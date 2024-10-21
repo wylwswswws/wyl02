@@ -80,7 +80,7 @@ skills:
       - name: SQL
         icon: devicon/mysql
       - name: MATLAB
-        #icon: devicon/Matlab
+        icon: devicon/Matlab
       - name: C/C++
       # icon: devicon/Matlab
       - name: PowerBI
@@ -121,8 +121,8 @@ awards:
       - Developed a sequence-to-sequence predictive model (LSTM) for four timesteps in the reduced space and achieved a 92% accuracy rate in decoding predicted results in the full space
   - title: Pharmacological Discovery and Development of Marine Fungi
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date_start: 2023-08-01
-    date_end: 2023-12-01
+    date_start: '2023-08-01'
+    date_end: '2023-12-01'
     awarder: Peking University Health Science Center
     summary: |
       - Conducted in-depth bioinformatic analysis to predict the function of biosynthetic gene clusters in marine fungi, adding in the identification of novel bioactive compounds. 
@@ -138,8 +138,8 @@ awards:
       - Drafted a report summarizing the advantages and challenges of the approaches of data fusion in the project and shared it with the entire research group for further discussion and collaboration. 
   - title: Traffic Flow Modeling
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date_start: 2024-01-01
-    date_end: 2024-04-01
+    #date_start: 2024-01-01
+    #date_end: 2024-04-01
     awarder: University of Nottingham
     summary: |
       - Developed traffic flow models using cellular automata and car-following approaches. Simulated the behavior of vehicles under varying traffic densities and driver reaction times.
