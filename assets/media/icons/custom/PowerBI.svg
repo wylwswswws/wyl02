@@ -5,8 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   width="1200"
-   height="1600"
    viewBox="0 0 1200 1600"
    fill="none"
    version="1.1"
@@ -129,11 +127,11 @@
        y2="1507.15"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#E6AD10"
+         stop-color="currentColor"
          id="stop19638" />
       <stop
          offset="1"
-         stop-color="#C87E0E"
+         stop-color="currentColor"
          id="stop19640" />
     </linearGradient>
     <linearGradient
@@ -144,11 +142,11 @@
        y2="1561.67"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#F6D751"
+         stop-color="currentColor"
          id="stop19643" />
       <stop
          offset="1"
-         stop-color="#E6AD10"
+         stop-color="currentColor"
          id="stop19645" />
     </linearGradient>
     <linearGradient
@@ -159,11 +157,11 @@
        y2="1581.6801"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#F9E589"
+         stop-color="currentColor"
          id="stop19648" />
       <stop
          offset="1"
-         stop-color="#F6D751"
+         stop-color="currentColor"
          id="stop19650" />
     </linearGradient>
   </defs>
