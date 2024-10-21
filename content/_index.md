@@ -51,4 +51,9 @@ sections:
     content:
       title: Projects
       username: admin
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
+      date_format: 'January 2006'
 ---
