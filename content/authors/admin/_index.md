@@ -80,7 +80,7 @@ skills:
       - name: SQL
         icon: devicon/mysql
       - name: MATLAB
-        icon: devicon/Matlab
+        icon: devicon/matlab
       - name: C/C++
       # icon: devicon/Matlab
       - name: PowerBI
