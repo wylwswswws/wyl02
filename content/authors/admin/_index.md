@@ -104,8 +104,8 @@ awards:
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
     #date_start: '2024-06-01'
     #date_end: '2024-08-01'
-    #date: '2024-06-01'
-    awarder: 'June 2023 - August 2023'
+    date: '2024-09-01'
+    # awarder: 'June 2023 - August 2023'
     summary: |
       - Led a comprehensive customer churn analysis using Python, analyzing data from over 7,000 customer records to identify key factors influencing churn rates. 
       - Applied the SMOTE method to increase sample size and developed multiple classification models (Logistic Regression, Random Forest, XGBoost) to predict potential customer churn. Achieved an accuracy of 0.9 using XGBoost and created SHAP value charts to explain the model. 
@@ -114,7 +114,7 @@ awards:
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     #date_start: '2023-04-01'
     #date_end: '2023-05-01'
-    #date: '2023-05-01' 
+    date: '' 
     awarder: 'May 2023 - June 2023'
     summary: |
       - Implemented PCA and CAE techniques for data compression and decompression on 48 videos with different initial conditions related to Reduced Order Modeling & Video Prediction. 
@@ -123,7 +123,7 @@ awards:
   - title: Pharmacological Discovery and Development of Marine Fungi
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-12-01'
-    awarder: Peking University Health Science Center
+    #awarder: Peking University Health Science Center
     summary: |
       - Conducted in-depth bioinformatic analysis to predict the function of biosynthetic gene clusters in marine fungi, adding in the identification of novel bioactive compounds. 
       - Applied advanced gene mining techniques to systematically search for potential pharmaceutical candidates, contributing to the discovery of marine-derived natural products with therapeutic potential. 
