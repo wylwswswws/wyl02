@@ -105,21 +105,16 @@ awards:
     #date_start: '2024-06-01'
     #date_end: '2024-08-01'
     date: '2024-06-01'
-    date_end: '2024-08-01'
     summary: |
       - Led a comprehensive customer churn analysis using Python, analyzing data from over 7,000 customer records to identify key factors influencing churn rates. 
       - Applied the SMOTE method to increase sample size and developed multiple classification models (Logistic Regression, Random Forest, XGBoost) to predict potential customer churn. Achieved an accuracy of 0.9 using XGBoost and created SHAP value charts to explain the model. 
       -  Designed and implemented A/B testing to validate data-driven strategies for reducing customer churn, comparing pre- and post-intervention churn rates to measure the effectiveness of the campaign. 
-    tags:
-      - Hugo
-      - Wowchemy
-      - Markdown
   - title: Dimension Reduction Analysis
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     #date_start: '2023-04-01'
     #date_end: '2023-05-01'
     date: '2023-05-01' 
-    # awarder: edX
+    awarder: 'May 2023 - June 2023'
     summary: |
       - Implemented PCA and CAE techniques for data compression and decompression on 48 videos with different initial conditions related to Reduced Order Modeling & Video Prediction. 
       - Compared the reconstruction accuracy of PCA and CAE against various dimensions of the reduced space and found better accuracy for larger dimensions using CAE and for smaller dimensions using PCA. 
