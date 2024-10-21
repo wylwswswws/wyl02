@@ -47,4 +47,8 @@ sections:
       fill_image: false
       columns: 3
       date_format: 'January 2006'
+  - block: awards
+    content:
+      title: Projects
+      username: admin
 ---
