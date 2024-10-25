@@ -110,7 +110,7 @@ awards:
     - Designed and implemented A/B testing to validate data-driven strategies for reducing customer churn, comparing pre- and post-intervention churn rates to measure the effectiveness of the campaign. 
 
 - title: Traffic Flow Modeling
-  # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  url: https://github.com/wylwswswws/Traffic-Flow-Modeling
   date: '2024-04-01'
   awarder: University of Nottingham
   summary: |
