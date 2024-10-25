@@ -17,7 +17,7 @@ last_name: Wu
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist | Machine Learning Enthusiast | Specializing in Predictive Analytics & Data-Driven Solutions
+role: Data Scientist | ML Enthusiast | Specializing in Predictive Analytics & Data Solutions
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Pennsylvania
