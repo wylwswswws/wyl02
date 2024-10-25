@@ -17,7 +17,7 @@ last_name: Wu
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist | Data Analyst | Biostatistician 
+role: Data Scientist | Machine Learning Enthusiast | Specializing in Predictive Analytics & Data-Driven Solutions
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Pennsylvania
@@ -100,50 +100,49 @@ skills:
 
 # Projects
 awards:
-  - title: Customer Churn Analysis 
-    # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    #date_start: '2024-06-01'
-    #date_end: '2024-08-01'
-    date: '2024-09-01'
-    # awarder: 'June 2023 - August 2023'
-    summary: |
-      - Led a comprehensive customer churn analysis using Python, analyzing data from over 7,000 customer records to identify key factors influencing churn rates. 
-      - Applied the SMOTE method to increase sample size and developed multiple classification models (Logistic Regression, Random Forest, XGBoost) to predict potential customer churn. Achieved an accuracy of 0.9 using XGBoost and created SHAP value charts to explain the model. 
-      -  Designed and implemented A/B testing to validate data-driven strategies for reducing customer churn, comparing pre- and post-intervention churn rates to measure the effectiveness of the campaign. 
-  - title: Dimension Reduction Analysis
-    # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    #date_start: '2023-04-01'
-    #date_end: '2023-05-01'
-    date: '2023-05-01' 
-    #awarder: 'May 2023 - June 2023'
-    summary: |
-      - Implemented PCA and CAE techniques for data compression and decompression on 48 videos with different initial conditions related to Reduced Order Modeling & Video Prediction. 
-      - Compared the reconstruction accuracy of PCA and CAE against various dimensions of the reduced space and found better accuracy for larger dimensions using CAE and for smaller dimensions using PCA. 
-      - Developed a sequence-to-sequence predictive model (LSTM) for four timesteps in the reduced space and achieved a 92% accuracy rate in decoding predicted results in the full space
-  - title: Pharmacological Discovery and Development of Marine Fungi
-    # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-12-01'
-    awarder: Peking University Health Science Center
-    summary: |
-      - Conducted in-depth bioinformatic analysis to predict the function of biosynthetic gene clusters in marine fungi, adding in the identification of novel bioactive compounds. 
-      - Applied advanced gene mining techniques to systematically search for potential pharmaceutical candidates, contributing to the discovery of marine-derived natural products with therapeutic potential. 
-  - title: Data Fusion Research
-    # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2022-12-01'
-    awarder: University of Nottingham
-    summary: |
-      - Consulted the literature on the history and different approaches to data fusion and identified key trends and advancements. 
-      - Designed and developed algorithms with Kalman filter and fuzzy logic using C++ for data fusion. 
-      - Drafted a report summarizing the advantages and challenges of the approaches of data fusion in the project and shared it with the entire research group for further discussion and collaboration. 
-  - title: Traffic Flow Modeling
-    # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2024-04-01'
-    awarder: University of Nottingham
-    summary: |
-      - Developed and implemented traffic flow models, including cellular automata, car-following models, and partial differential equations (PDE), to simulate realistic traffic dynamics across various densities and driver behaviors.
-      - Conducted extensive simulations to assess the impact of different traffic densities and road conditions, optimizing model parameters for enhanced predictive accuracy.
-      - Analyzed and identified optimal density levels and behavioral factors that aligned closely with real-world traffic patterns, providing recommendations to improve flow and reduce congestion.
+- title: Customer Churn Analysis 
+  # url: https://www.coursera.org/learn/neural-networks-deep-learning
+  date: '2024-09-01'
+  # awarder: 'June 2023 - August 2023'
+  summary: |
+    - Led a comprehensive customer churn analysis using Python, analyzing data from over 7,000 customer records to identify key factors influencing churn rates. 
+    - Applied the SMOTE method to increase sample size and developed multiple classification models (Logistic Regression, Random Forest, XGBoost) to predict potential customer churn. Achieved an accuracy of 0.9 using XGBoost and created SHAP value charts to explain the model. 
+    - Designed and implemented A/B testing to validate data-driven strategies for reducing customer churn, comparing pre- and post-intervention churn rates to measure the effectiveness of the campaign. 
 
+- title: Traffic Flow Modeling
+  # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  date: '2024-04-01'
+  awarder: University of Nottingham
+  summary: |
+    - Developed and implemented traffic flow models, including cellular automata, car-following models, and partial differential equations (PDE), to simulate realistic traffic dynamics across various densities and driver behaviors.
+    - Conducted extensive simulations to assess the impact of different traffic densities and road conditions, optimizing model parameters for enhanced predictive accuracy.
+    - Analyzed and identified optimal density levels and behavioral factors that aligned closely with real-world traffic patterns, providing recommendations to improve flow and reduce congestion.
+
+- title: Pharmacological Discovery and Development of Marine Fungi
+  # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  date: '2023-12-01'
+  awarder: Peking University Health Science Center
+  summary: |
+    - Conducted in-depth bioinformatic analysis to predict the function of biosynthetic gene clusters in marine fungi, adding in the identification of novel bioactive compounds. 
+    - Applied advanced gene mining techniques to systematically search for potential pharmaceutical candidates, contributing to the discovery of marine-derived natural products with therapeutic potential. 
+
+- title: Dimension Reduction Analysis
+  # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  date: '2023-05-01' 
+  # awarder: 'May 2023 - June 2023'
+  summary: |
+    - Implemented PCA and CAE techniques for data compression and decompression on 48 videos with different initial conditions related to Reduced Order Modeling & Video Prediction. 
+    - Compared the reconstruction accuracy of PCA and CAE against various dimensions of the reduced space and found better accuracy for larger dimensions using CAE and for smaller dimensions using PCA. 
+    - Developed a sequence-to-sequence predictive model (LSTM) for four timesteps in the reduced space and achieved a 92% accuracy rate in decoding predicted results in the full space.
+
+- title: Data Fusion Research
+  # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  date: '2022-12-01'
+  awarder: University of Nottingham
+  summary: |
+    - Consulted the literature on the history and different approaches to data fusion and identified key trends and advancements. 
+    - Designed and developed algorithms with Kalman filter and fuzzy logic using C++ for data fusion. 
+    - Drafted a report summarizing the advantages and challenges of the approaches of data fusion in the project and shared it with the entire research group for further discussion and collaboration. 
 ---
 
 Hello! I’m Yulun Wu, a data scientist with a background in mathematics and systems engineering. Currently pursuing my MSE at the University of Pennsylvania, I specialize in data analysis, machine learning, and predictive modeling. I’m passionate about leveraging data-driven insights to solve complex problems, particularly in the fields of healthcare and technology. With hands-on experience in tools like Python, SQL, R, and MATLAB, I enjoy creating innovative solutions that have a real-world impact. Welcome to my space – feel free to explore my projects and connect!
