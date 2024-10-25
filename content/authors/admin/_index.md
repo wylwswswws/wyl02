@@ -3,15 +3,15 @@
 title: Yulun Wu
 
 # Name pronunciation (optional)
-#name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Yulun Wu
 
 # Full name (for SEO)
 first_name: Yulun
 last_name: Wu
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+  #icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -140,8 +140,10 @@ awards:
     date: '2024-04-01'
     awarder: University of Nottingham
     summary: |
-      - Developed traffic flow models using cellular automata and car-following approaches. Simulated the behavior of vehicles under varying traffic densities and driver reaction times.
+      - Developed and implemented traffic flow models, including cellular automata, car-following models, and partial differential equations (PDE), to simulate realistic traffic dynamics across various densities and driver behaviors.
+      - Conducted extensive simulations to assess the impact of different traffic densities and road conditions, optimizing model parameters for enhanced predictive accuracy.
+      - Analyzed and identified optimal density levels and behavioral factors that aligned closely with real-world traffic patterns, providing recommendations to improve flow and reduce congestion.
 
 ---
 
-I am Yulun Wu, a passionate data scientist with a solid foundation in mathematics, machine learning, and biostatistics. Currently pursuing an MSE in Systems Engineering at the University of Pennsylvania, I am focused on applying advanced machine learning techniques to healthcare and finance sectors. 
+Hello! I’m Yulun Wu, a data scientist with a background in mathematics and systems engineering. Currently pursuing my MSE at the University of Pennsylvania, I specialize in data analysis, machine learning, and predictive modeling. I’m passionate about leveraging data-driven insights to solve complex problems, particularly in the fields of healthcare and technology. With hands-on experience in tools like Python, SQL, R, and MATLAB, I enjoy creating innovative solutions that have a real-world impact. Welcome to my space – feel free to explore my projects and connect!
