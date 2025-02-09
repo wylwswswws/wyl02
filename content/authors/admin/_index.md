@@ -57,8 +57,8 @@ work:
     date_start: 2023-06-18
     date_end: 2023-09-15
     summary: |
-      - Collaborated with Microsoft China on a company-wide database migration project, consolidating five databases into one. Analyzed data flow, optimized SQL queries for enhanced efficiency, and contributed to the development of over 20 user requirement specifications.
-      - Leveraged Python and statistical techniques to process and analyze historical sales promotion data for pharmaceuticals. Developed time series models to provide insights for optimizing future promotions and recommending budget allocations. 
+      - Collaborated with Microsoft China on a company-wide SQL database migration project regarding to customer representative behavior, consolidating five databases into one. Reduced query runtime by 30% through SQL optimization, increasing database migration efficiency.
+      - Leveraged Python and statistical techniques to process and analyze historical sales promotion data for pharmaceuticals. Generated predictive insights that improved promotional budget allocation accuracy by 20%, contributing to $100,000 in cost savings. 
       
   - position: Data Analyst Intern
     company_name: Central Institute of Mental Health
@@ -68,7 +68,7 @@ work:
     summary: |
       - Explored neurophysiological activity under stress conditions using a neuropsychological paradigm and combining functional MRI and heart rate signal (in collaboration with the Max Planck Institute of Psychiatry). 
       - Analyzed fMRI-BOLD and photoplethysmogram signals respectively utilizing generalized linear models (GLM) and wabp algorithm in MATLAB and found brain regions’ interaction with the autonomic nervous system under stress. 
-      - Presented research results in an Academic Seminar at Heidelberg University to 20 scholars and researchers and prepared a poster for an international conference; Expect to publish the research findings in high-impact international journals. 
+      - Collaborated with a multidisciplinary team of researchers to prepare and deliver a comprehensive presentation at an academic seminar at Heidelberg University, engaging over 20 scholars and researchers in discussions about findings. 
 # Skills
 skills:
   - name: Software Skills
@@ -105,26 +105,26 @@ awards:
   date: '2024-09-01'
   # awarder: 'June 2023 - August 2023'
   summary: |
-    - Led a comprehensive customer churn analysis using Python, analyzing data from over 7,000 customer records to identify key factors influencing churn rates. 
+    - Led a comprehensive customer churn analysis using Python, analyzing data from over 7,000 customer records to identify key factors such as contract length, monthly charges and customer service response time influencing churn rates. 
     - Applied the SMOTE method to increase sample size and developed multiple classification models (Logistic Regression, Random Forest, XGBoost) to predict potential customer churn. Achieved an accuracy of 0.9 using XGBoost and created SHAP value charts to explain the model. 
-    - Designed and implemented A/B testing to validate data-driven strategies for reducing customer churn, comparing pre- and post-intervention churn rates to measure the effectiveness of the campaign. 
+    - Designed and implemented A/B testing to validate data-driven strategies for reducing customer churn, comparing pre-and post-intervention churn rates to measure the effectiveness of the campaign. 
 
-- title: Traffic Flow Modeling
-  url: https://github.com/wylwswswws/Traffic-Flow-Modeling
-  date: '2024-04-01'
-  awarder: University of Nottingham
-  summary: |
-    - Developed and implemented traffic flow models, including cellular automata, car-following models, and partial differential equations (PDE), to simulate realistic traffic dynamics across various densities and driver behaviors.
-    - Conducted extensive simulations to assess the impact of different traffic densities and road conditions, optimizing model parameters for enhanced predictive accuracy.
-    - Analyzed and identified optimal density levels and behavioral factors that aligned closely with real-world traffic patterns, providing recommendations to improve flow and reduce congestion.
+#- title: Traffic Flow Modeling
+#  url: https://github.com/wylwswswws/Traffic-Flow-Modeling
+#  date: '2024-04-01'
+#  awarder: University of Nottingham
+#  summary: |
+#    - Developed and implemented traffic flow models, including cellular automata, car-following models, and partial differential equations (PDE), to simulate realistic traffic dynamics across various densities and driver behaviors.
+#    - Conducted extensive simulations to assess the impact of different traffic densities and road conditions, optimizing model parameters for enhanced predictive accuracy.
+#    - Analyzed and identified optimal density levels and behavioral factors that aligned closely with real-world traffic patterns, providing recommendations to improve flow and reduce congestion.
 
-- title: Pharmacological Discovery and Development of Marine Fungi
+#- title: Pharmacological Discovery and Development of Marine Fungi
   # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  date: '2023-12-01'
-  awarder: Peking University Health Science Center
-  summary: |
-    - Conducted in-depth bioinformatic analysis to predict the function of biosynthetic gene clusters in marine fungi, adding in the identification of novel bioactive compounds. 
-    - Applied advanced gene mining techniques to systematically search for potential pharmaceutical candidates, contributing to the discovery of marine-derived natural products with therapeutic potential. 
+#  date: '2023-12-01'
+#  awarder: Peking University Health Science Center
+#  summary: |
+#    - Conducted in-depth bioinformatic analysis to predict the function of biosynthetic gene clusters in marine fungi, adding in the identification of novel bioactive compounds. 
+#    - Applied advanced gene mining techniques to systematically search for potential pharmaceutical candidates, contributing to the discovery of marine-derived natural products with therapeutic potential. 
 
 - title: Dimension Reduction Analysis
   # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
@@ -133,16 +133,25 @@ awards:
   summary: |
     - Implemented PCA and CAE techniques for data compression and decompression on 48 videos with different initial conditions related to Reduced Order Modeling & Video Prediction. 
     - Compared the reconstruction accuracy of PCA and CAE against various dimensions of the reduced space and found better accuracy for larger dimensions using CAE and for smaller dimensions using PCA. 
-    - Developed a sequence-to-sequence predictive model (LSTM) for four timesteps in the reduced space and achieved a 92% accuracy rate in decoding predicted results in the full space.
+    - Developed a sequence-to-sequence predictive model (LSTM) for four timesteps in the reduced space and achieved a 92% accuracy rate in decoding predicted results in the full space. 
 
-- title: Data Fusion Research
+#- title: Data Fusion Research
   # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  date: '2022-12-01'
-  awarder: University of Nottingham
+#  date: '2022-12-01'
+#  awarder: University of Nottingham
+#  summary: |
+#    - Consulted the literature on the history and different approaches to data fusion and identified key trends and advancements. 
+#    - Designed and developed algorithms with Kalman filter and fuzzy logic using C++ for data fusion. 
+#    - Drafted a report summarizing the advantages and challenges of the approaches of data fusion in the project and shared it with the entire research group for further discussion and collaboration. 
+
+- title: Credit Card Fraud Prediction
+  # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  date: '2024-12-01'
+  awarder: University of Pennsylvania
   summary: |
-    - Consulted the literature on the history and different approaches to data fusion and identified key trends and advancements. 
-    - Designed and developed algorithms with Kalman filter and fuzzy logic using C++ for data fusion. 
-    - Drafted a report summarizing the advantages and challenges of the approaches of data fusion in the project and shared it with the entire research group for further discussion and collaboration. 
+    - Developed binary classification models to predict news headlines’ sources (Fox News vs. NBC News), leveraging advanced NLP techniques to reveal stylistic and vocabulary differences.
+    - Web-scraped and processed 3,800+ headlines using Python, transforming text data via TF-IDF and Word2Vec vectorization, and enriching features through bigram/trigram extraction.
+    - Built and tuned a Bidirectional LSTM model (80% accuracy), outperforming a baseline Logistic Regression (66%); mitigated overfitting through extensive hyperparameter optimization.
 ---
 
 Hello! I’m Alan Wu, a graduate student in Data Science at the University of Pennsylvania and a Mathematics alumnus from the University of Nottingham. My passion lies in transforming complex data into actionable insights using advanced analytics, statistical modeling, and scalable data engineering tools. I’m dedicated to harnessing data-driven strategies that spark innovation and deliver tangible business impact. When I’m not coding or analyzing datasets, you can find me exploring the latest data science research or refining my visualization skills to bring stories to life through data. Welcome to my space – feel free to explore my projects and connect!
