@@ -100,6 +100,24 @@ skills:
 
 # Projects
 awards:
+- title: News Source Classification
+  # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  date: '2024-12-01'
+  awarder: University of Pennsylvania
+  summary: |
+    - Developed binary classification models to predict news headlines’ sources (Fox News vs. NBC News), leveraging advanced NLP techniques to reveal stylistic and vocabulary differences.
+    - Web-scraped and processed 3,800+ headlines using Python, transforming text data via TF-IDF and Word2Vec vectorization, and enriching features through bigram/trigram extraction.
+    - Built and tuned a Bidirectional LSTM model (80% accuracy), outperforming a baseline Logistic Regression (66%); mitigated overfitting through extensive hyperparameter optimization.
+
+- title: Credit Card Fraud Prediction
+  # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  date: '2024-12-01'
+  awarder: University of Pennsylvania
+  summary: |
+    - Led a credit card fraud prediction project using Python and SQL, analyzing over 50,000 transaction records to identify key patterns and factors contributing to fraudulent activities, such as transaction amount, location anomalies, and user behavior.
+    - Utilized SMOTE and ADASYN methods to address data imbalance, increasing sample size for robust model training. Enhanced feature extraction by leveraging Long Short-Term Memory (LSTM) networks for detecting temporal patterns.
+    - Built and evaluated classification models including Logistic Regression, Random Forest, and XGBoost, achieving a 90% prediction accuracy with XGBoost. Explained model predictions using SHAP value charts, enabling stakeholders to understand key drivers of fraud.
+
 - title: Customer Churn Analysis 
   # url: https://www.coursera.org/learn/neural-networks-deep-learning
   date: '2024-09-01'
@@ -144,14 +162,6 @@ awards:
 #    - Designed and developed algorithms with Kalman filter and fuzzy logic using C++ for data fusion. 
 #    - Drafted a report summarizing the advantages and challenges of the approaches of data fusion in the project and shared it with the entire research group for further discussion and collaboration. 
 
-- title: Credit Card Fraud Prediction
-  # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  date: '2024-12-01'
-  awarder: University of Pennsylvania
-  summary: |
-    - Developed binary classification models to predict news headlines’ sources (Fox News vs. NBC News), leveraging advanced NLP techniques to reveal stylistic and vocabulary differences.
-    - Web-scraped and processed 3,800+ headlines using Python, transforming text data via TF-IDF and Word2Vec vectorization, and enriching features through bigram/trigram extraction.
-    - Built and tuned a Bidirectional LSTM model (80% accuracy), outperforming a baseline Logistic Regression (66%); mitigated overfitting through extensive hyperparameter optimization.
 ---
 
 Hello! I’m Alan Wu, a graduate student in Data Science at the University of Pennsylvania and a Mathematics alumnus from the University of Nottingham. My passion lies in transforming complex data into actionable insights using advanced analytics, statistical modeling, and scalable data engineering tools. I’m dedicated to harnessing data-driven strategies that spark innovation and deliver tangible business impact. When I’m not coding or analyzing datasets, you can find me exploring the latest data science research or refining my visualization skills to bring stories to life through data. Welcome to my space – feel free to explore my projects and connect!
