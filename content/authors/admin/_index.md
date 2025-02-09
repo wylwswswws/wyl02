@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yulun Wu
+title: Alan (Yulun) Wu
 
 # Name pronunciation (optional)
 #name_pronunciation: Yulun Wu
@@ -36,7 +36,7 @@ profiles:
     url: https://www.linkedin.com/in/yulunwu02
 
 education:
-  - area: Master of Science in Engineering in Systems Engineering
+  - area: Master of Science in Data Science
     institution: University of Pennsylvania
     date_start: 2024-08-27
     date_end: 2026-05-20
@@ -145,4 +145,4 @@ awards:
     - Drafted a report summarizing the advantages and challenges of the approaches of data fusion in the project and shared it with the entire research group for further discussion and collaboration. 
 ---
 
-Hello! I’m Yulun Wu, a data scientist with a background in mathematics and systems engineering. Currently pursuing my MSE at the University of Pennsylvania, I specialize in data analysis, machine learning, and predictive modeling. I’m passionate about leveraging data-driven insights to solve complex problems, particularly in the fields of healthcare and technology. With hands-on experience in tools like Python, SQL, R, and MATLAB, I enjoy creating innovative solutions that have a real-world impact. Welcome to my space – feel free to explore my projects and connect!
+Hello! I’m Alan Wu, a graduate student in Data Science at the University of Pennsylvania and a Mathematics alumnus from the University of Nottingham. My passion lies in transforming complex data into actionable insights using advanced analytics, statistical modeling, and scalable data engineering tools. I’m dedicated to harnessing data-driven strategies that spark innovation and deliver tangible business impact. When I’m not coding or analyzing datasets, you can find me exploring the latest data science research or refining my visualization skills to bring stories to life through data. Welcome to my space – feel free to explore my projects and connect!
