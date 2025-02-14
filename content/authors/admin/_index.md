@@ -51,6 +51,15 @@ education:
       - Overall GPA: 3.90/4.00 | First Class | Provost’s Scholarship (06/2021)
       - Specialized in probability theory, statistical methods, and mathematical modeling. 
 work:
+  - position: Senior Analyst
+    company_name: Wharton Analytics Fellows
+    company_url: 'https://ai-analytics.wharton.upenn.edu/for-students/wharton-analytics-fellows/'
+    date_start: 2025-02-13
+    date_end: 2025-04-05
+    summary: |
+      - Collaborating within the Wharton AI & Analytics Accelerator Team to develop an AI-driven tool that predicts sales trends for Spencer’s Gifts, focusing on t-shirts and other trendy items. 
+      - Analyzing historical and current sales data to forecast changes in sales magnitude, timing, and revenue impact.
+      - Preparing weekly reports with actionable insights for the client’s Planning Team to support strategic decision-making. 
   - position: Data Analyst Intern
     company_name: Novo Nordisk (China) Pharmaceuticals Co., Ltd.
     company_url: 'https://www.novonordisk.com.cn/'
