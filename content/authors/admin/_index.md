@@ -52,6 +52,13 @@ education:
       - Overall GPA: 3.9/4.0 | First Class | Provost’s Scholarship (06/2021)
       - Specialized in probability theory, statistical methods, and mathematical modeling. 
 work:
+    - position: Algorithm Engineer
+    company_name: Midea
+    company_url: 'https://ai-analytics.wharton.upenn.edu/for-students/wharton-analytics-fellows/'
+    date_start: 2025-05-23
+    date_end: 2025-08-15
+    summary: |
+      - C
   - position: Technical Lead
     company_name: Wharton Analytics Fellows
     company_url: 'https://ai-analytics.wharton.upenn.edu/for-students/wharton-analytics-fellows/'
