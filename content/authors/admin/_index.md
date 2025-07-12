@@ -41,17 +41,18 @@ education:
     date_start: 2024-08-27
     date_end: 2026-05-20
     summary: |
-      Pursuing advanced studies in data science, applied machine learning, and statistical modeling. 
+      - Overall GPA: 4.0/4.0
+      - Pursuing advanced studies in data science, applied machine learning, and AI. 
       
   - area: Bachelor of Science (Honours) in Mathematics with Applied Mathematics
     institution: University of Nottingham
     date_start: 2020-09-27
     date_end: 2024-07-14
     summary: |
-      - Overall GPA: 3.90/4.00 | First Class | Provost’s Scholarship (06/2021)
+      - Overall GPA: 3.9/4.0 | First Class | Provost’s Scholarship (06/2021)
       - Specialized in probability theory, statistical methods, and mathematical modeling. 
 work:
-  - position: Senior Analyst
+  - position: Technical Lead
     company_name: Wharton Analytics Fellows
     company_url: 'https://ai-analytics.wharton.upenn.edu/for-students/wharton-analytics-fellows/'
     date_start: 2025-02-13
